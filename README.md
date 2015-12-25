@@ -19,7 +19,7 @@ source .wttd/bin/activate
 pip install -r requirements.txt
 cp contrib/env-sample .env
 python manage.py test
-
+```
 
 
 ## Como fazer o Deploy?
