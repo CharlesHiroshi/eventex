@@ -3,8 +3,7 @@
 Sistema de Eventos encomendado pela Morena
 
 [![Build Status](https://travis-ci.org/CharlesHiroshi/eventex.svg?branch=master)](https://travis-ci.org/CharlesHiroshi/eventex)
-[![Code Health](https://landscape.io/github/CharlesHiroshi/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/CharlesHiroshi/eventex/master)
-
+[![Code Climate](https://codeclimate.com/repos/56887f8e1dd3e505480038a3/badges/0ef0ed5e60be9048ff7a/gpa.svg)](https://codeclimate.com/repos/56887f8e1dd3e505480038a3/feed)
 
 ## Como desenvolver?
 
