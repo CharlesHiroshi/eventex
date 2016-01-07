@@ -12,6 +12,7 @@ def new(request):
         return create(request)
     return empty_form(request)
 
+
 def empty_form(request):
     return render(request, 'subscriptions/subscription_form.html',
                   {'form': SubscriptionForm()})
@@ -32,9 +33,6 @@ def create(request):
                {'subscription': subscription})
 
     return HttpResponseRedirect(r('subscriptions:detail', subscription.pk))
-
-
-
 
 
 def detail(request, pk):
