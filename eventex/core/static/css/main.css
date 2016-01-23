@@ -391,4 +391,16 @@ section header h2 {
     padding-right: 15px;
 }
 
+.talks h3 {
+    min-height: 1em;
+    padding: 0px;
+}
+
+.talks h4 {
+    min-height: 1em;
+    font-size: 1em;
+    padding: 0px;
+    margin: 0px;
+}
+
 /* Fim Customização */
